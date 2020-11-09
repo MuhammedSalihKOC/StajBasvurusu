@@ -1,0 +1,12 @@
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\bin\Debug\StajBasvurusu.exe.config
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\bin\Debug\StajBasvurusu.exe
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\bin\Debug\StajBasvurusu.pdb
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.csprojAssemblyReference.cache
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.Form1.resources
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.Form2.resources
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.Properties.Resources.resources
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.csproj.GenerateResource.cache
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.exe
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.pdb
+C:\Users\Muhammed Salih KOÇ\source\repos\StajBasvurusu\StajBasvurusu\obj\Debug\StajBasvurusu.Form3.resources
