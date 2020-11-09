@@ -1,2 +1,2 @@
 # StajBasvurusu
- Staj Başvuru Programı
+Bu proje C# yazılım dili ile geliştirilmektedir.
